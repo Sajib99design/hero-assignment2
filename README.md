@@ -1,1 +1,1 @@
-[Visit live] : https://sajib99design.github.io/hero-assignment2/
+ https://sajib99design.github.io/hero-assignment2/
